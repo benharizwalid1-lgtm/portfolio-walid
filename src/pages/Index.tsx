@@ -13,8 +13,8 @@ const Index = () => {
 
   const seriousText1 = "Étudiant en LBC";
   const seriousText2 = "Business Intelligence";
-  const playfulText1 = "Hello, moi c'est";
-  const playfulText2 = "Elwalid Ben Hariz";
+  const playfulText1 = "Salut, je suis";
+  const playfulText2 = "ELWALID BEN HARIZ";
 
   useEffect(() => {
     // Reset animation when personality changes
